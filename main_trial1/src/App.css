@@ -1,0 +1,23 @@
+.team-button{
+  background-color: antiquewhite !important;
+  color: black !important;
+  padding: 20 20 20 20 !important;
+  border-color: burlywood !important;
+  box-shadow: 2px 2px cadetblue !important;
+  height: 150px;
+  width: 200px;
+}
+.team-button:hover{
+  background-color: wheat !important;
+  box-shadow: 3px 3px turquoise !important;
+}
+.Welcome2TeamCard{
+  border-color: white !important;
+}
+.logoutButton{
+  background-color: rgb(110, 47, 211) !important;
+  color: white;
+  border-radius: 20px;
+  padding: 10px !important;
+  box-shadow: white !important;
+}
